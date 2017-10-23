@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebService</string>
+    <string name="action_settings">Configuración</string>
+    <string name="urlNgrok">https://383f5a1f.ngrok.io</string>
+</resources>
